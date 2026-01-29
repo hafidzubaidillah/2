@@ -2,5 +2,5 @@ print("=======================================")
 print("Program Biodata Sederhana Dengan Python")
 print("=======================================")
 
-nama = "Hafidz Ubaidillah"
-hobi = "Belajar Git"
+nama = "Hafidz (Development)"
+hobi = "Belajar Git Rebase"
